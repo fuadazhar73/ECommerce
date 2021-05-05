@@ -45,8 +45,8 @@ public class HelloWorldConfiguration extends WebMvcConfigurerAdapter {
         //Using gmail
         mailSender.setHost("smtp.gmail.com");
         mailSender.setPort(587);
-        mailSender.setUsername("jatin.sabherwal16497@gmail.com");
-        mailSender.setPassword("dtuenvironmental");
+        mailSender.setUsername("jujiloko51@gmail.com");
+        mailSender.setPassword("b3379zasasa");
          
         Properties javaMailProperties = new Properties();
     
